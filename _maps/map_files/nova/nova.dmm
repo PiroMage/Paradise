@@ -3724,9 +3724,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "aCV" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/plasteel{
@@ -4067,9 +4065,7 @@
 "aFE" = (
 /obj/structure/closet/emcloset,
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "aFJ" = (
 /obj/effect/decal/remains/mouse,
 /turf/simulated/floor/plating,
@@ -5353,9 +5349,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "aOJ" = (
 /obj/machinery/door/airlock/security{
 	name = "Restroom";
@@ -7059,9 +7053,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bbt" = (
 /obj/effect/turf_decal/siding/red{
 	dir = 1
@@ -7138,9 +7130,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bbX" = (
 /obj/structure/railing{
 	dir = 10
@@ -8066,9 +8056,7 @@
 	dir = 9;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bje" = (
 /turf/simulated/wall,
 /area/hallway/primary/central)
@@ -11346,9 +11334,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bGj" = (
 /obj/structure/railing{
 	dir = 8
@@ -11592,9 +11578,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bIa" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -13365,9 +13349,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "bVh" = (
 /obj/structure/closet/paramedic,
 /turf/simulated/floor/plasteel{
@@ -15184,9 +15166,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "cjK" = (
 /obj/machinery/door/firedoor,
 /obj/effect/mapping_helpers/airlock/unres{
@@ -16777,9 +16757,7 @@
 /area/solar/port)
 "cuZ" = (
 /turf/simulated/wall/r_wall,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "cvb" = (
 /obj/structure/table/reinforced,
 /obj/item/seeds/lime,
@@ -19892,9 +19870,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "cTG" = (
 /obj/machinery/atmospherics/pipe/simple/visible{
 	dir = 5
@@ -21515,9 +21491,7 @@
 	pixel_y = 0
 	},
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "dhM" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -26527,9 +26501,7 @@
 	dir = 1;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "dVb" = (
 /obj/structure/table,
 /obj/item/paper_bin{
@@ -28859,9 +28831,7 @@
 	dir = 5;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "elZ" = (
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -35788,9 +35758,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "darkbluecorners"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "fnY" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet,
@@ -36425,9 +36393,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "fsm" = (
 /obj/machinery/door/airlock/medical/glass{
 	id_tag = "medcabin1";
@@ -36604,9 +36570,7 @@
 	dir = 1;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "ftR" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/glass,
@@ -38761,9 +38725,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "fKq" = (
 /obj/structure/closet/l3closet/scientist,
 /obj/effect/decal/warning_stripes/yellow/hollow,
@@ -40442,9 +40404,7 @@
 	dir = 8;
 	icon_state = "darkbluecorners"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "fXy" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -42616,9 +42576,7 @@
 	dir = 8;
 	icon_state = "vault"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "gmW" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -42654,9 +42612,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "gnD" = (
 /obj/effect/spawner/window/reinforced,
 /turf/simulated/floor/plating,
@@ -50346,9 +50302,7 @@
 	dir = 4;
 	icon_state = "darkbluecorners"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "hyG" = (
 /obj/effect/spawner/window/reinforced,
 /obj/structure/cable{
@@ -53266,9 +53220,7 @@
 	dir = 1;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "hYi" = (
 /obj/effect/spawner/window/reinforced,
 /obj/structure/cable,
@@ -53516,9 +53468,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "iai" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -57670,9 +57620,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "iEW" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -58154,9 +58102,7 @@
 	pixel_y = -24
 	},
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "iJK" = (
 /obj/structure/chair/stool,
 /obj/effect/turf_decal/siding/wood{
@@ -61370,9 +61316,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "jjR" = (
 /obj/machinery/atmospherics/unary/vent_scrubber/on{
 	dir = 4
@@ -65505,9 +65449,7 @@
 "jQf" = (
 /obj/effect/spawner/window/reinforced,
 /turf/simulated/floor/plating,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "jQg" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -66711,9 +66653,7 @@
 	dir = 8;
 	icon_state = "vault"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "kbd" = (
 /turf/simulated/floor/plasteel{
 	dir = 4;
@@ -70671,9 +70611,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "kIn" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/grille/broken,
@@ -71148,9 +71086,7 @@
 	dir = 1;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "kMA" = (
 /obj/structure/table,
 /obj/item/hand_tele,
@@ -71678,9 +71614,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "kRe" = (
 /obj/machinery/door/airlock/maintenance{
 	req_access = list(12)
@@ -72858,9 +72792,7 @@
 	pixel_y = -32
 	},
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "kZN" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -74292,9 +74224,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "lly" = (
 /turf/simulated/floor/carpet/purple,
 /area/toxins/rdoffice)
@@ -76645,9 +76575,7 @@
 	dir = 9;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "lFS" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -79470,9 +79398,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "mcZ" = (
 /obj/effect/decal/warning_stripes/north,
 /turf/simulated/floor/plasteel,
@@ -86357,9 +86283,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "ned" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -86922,9 +86846,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "nih" = (
 /obj/structure/cable{
 	icon_state = "0-2"
@@ -88110,9 +88032,7 @@
 	dir = 1;
 	icon_state = "darkbluecorners"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "nrY" = (
 /obj/effect/spawner/window/reinforced,
 /obj/machinery/door/poddoor/shutters/preopen{
@@ -91909,9 +91829,7 @@
 "nWh" = (
 /obj/structure/closet/firecloset,
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "nWj" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -93916,9 +93834,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "onv" = (
 /obj/item/weldingtool,
 /obj/item/weldingtool,
@@ -94949,9 +94865,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "ovA" = (
 /obj/effect/spawner/window/reinforced,
 /obj/machinery/door/poddoor/shutters/preopen{
@@ -97715,9 +97629,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "oRE" = (
 /obj/structure/railing{
 	dir = 1
@@ -99636,9 +99548,7 @@
 	dir = 10;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "pfD" = (
 /obj/effect/decal/warning_stripes/south,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -102467,9 +102377,7 @@
 	dir = 4;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "pBh" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -105958,9 +105866,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "qbb" = (
 /obj/machinery/door/firedoor,
 /obj/effect/decal/warning_stripes/yellow,
@@ -106952,9 +106858,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "qjc" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/small{
@@ -107123,9 +107027,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "qlo" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/biogenerator,
@@ -110277,9 +110179,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "darkbluefull"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "qKy" = (
 /obj/structure/sign/directions/medical{
 	dir = 1
@@ -111972,9 +111872,7 @@
 	dir = 5;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "qXy" = (
 /obj/effect/turf_decal/siding/white{
 	dir = 5
@@ -113302,9 +113200,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "riR" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -114417,9 +114313,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "rrm" = (
 /obj/machinery/atmospherics/pipe/simple/visible/yellow{
 	desc = "Труба хранит в себе набор газов для смешивания";
@@ -114506,9 +114400,7 @@
 	dir = 10;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "rsM" = (
 /obj/structure/extinguisher_cabinet{
 	pixel_x = 26
@@ -118433,9 +118325,7 @@
 /area/maintenance/apmaint)
 "rUH" = (
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "rUP" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -119224,9 +119114,7 @@
 	dir = 1;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "sbk" = (
 /turf/simulated/floor/carpet,
 /area/library)
@@ -119622,9 +119510,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "sdN" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/plasteel{
@@ -120649,9 +120535,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "smp" = (
 /obj/structure/flora/ausbushes/brflowers,
 /obj/structure/flora/ausbushes/ywflowers/hell,
@@ -120967,9 +120851,7 @@
 	},
 /obj/machinery/light,
 /turf/simulated/floor/redgrid,
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "soF" = (
 /obj/effect/spawner/window/reinforced,
 /obj/structure/cable{
@@ -124908,9 +124790,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "sTa" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 4
@@ -128794,9 +128674,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "tvm" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/portable_atmospherics/canister/sleeping_agent,
@@ -129585,9 +129463,7 @@
 	dir = 8;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "tAz" = (
 /obj/structure/railing{
 	dir = 4
@@ -132365,9 +132241,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "tVk" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -133991,9 +133865,7 @@
 	dir = 6;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "uhh" = (
 /obj/machinery/atmospherics/unary/portables_connector{
 	dir = 8
@@ -143286,9 +143158,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "vGX" = (
 /obj/structure/table/reinforced,
 /obj/item/storage/box/donkpockets{
@@ -144169,9 +144039,7 @@
 /turf/simulated/floor/plasteel{
 	icon_state = "dark"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "vNR" = (
 /obj/machinery/computer/med_data,
 /obj/item/radio/intercom{
@@ -159762,9 +159630,7 @@
 	dir = 6;
 	icon_state = "darkblue"
 	},
-/area/construction/hallway{
-	name = "\improper AI Satellit Hallway"
-	})
+/area/construction/hallway)
 "yeG" = (
 /obj/item/clothing/head/beret/sec,
 /obj/effect/decal/cleanable/dirt,
